@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Tooba</title>
         <item>
-            <title>Version 2.0</title>
-            <description>Minor updates and improvements.</description>
+            <title>Tooba</title>
+            <description>Tooba</description>
             <pubDate></pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=site.tooba.android" sparkle:version="5.35.0" sparkle:os="android" />
         </item>
          <item>
-            <title>Version 2</title>
-            <description>its Update .</description>
+            <title>Tooba</title>
+            <description>Tooba</description>
             <pubDate></pubDate>
             <enclosure 
 url="https://apps.apple.com/tr/app/tooba/id1247468713" 
